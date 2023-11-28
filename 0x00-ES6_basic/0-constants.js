@@ -13,3 +13,7 @@ export function taskNext() {
 
   return combination;
 }
+
+export function getLast() {
+  return ' is okay';
+}
